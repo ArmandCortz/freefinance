@@ -43,7 +43,4 @@ URL ADMIN:  http://localhost:8000
 USER: admin@admin.com  
 PASS: 123456
 
-## Conoce mis otros trabajos.
-
-[HeavyDeveloper.me](https://heavydeveloper.me/)
 
