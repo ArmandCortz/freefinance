@@ -3,17 +3,16 @@ finanzas- Software de control financierp
 Copyright 2011-2021 por los contribuyentes
 
 Este programa es software libre; puedes redistribuirlo y / o modificarlo
-bajo los tÈrminos de la Licencia P˙blica General GNU publicada por
-la FundaciÛn de Software Libre; ya sea la versiÛn 2 de la Licencia, o
-(a su elecciÛn) cualquier versiÛn posterior.
+bajo los t√©rminos de la Licencia P√∫blica General GNU publicada por
+la Fundaci√≥n de Software Libre; ya sea la versi√≥n 2 de la Licencia, o
+(a su elecci√≥n) cualquier versi√≥n posterior.
 
-Este programa se distribuye con la esperanza de que sea ˙til,
-pero SIN NINGUNA GARANTÕA; incluso sin la garantÌa implÌcita de
-COMERCIABILIDAD o APTITUD PARA UN PROP”SITO EN PARTICULAR. Ver el
-Licencia p˙blica general de GNU para m·s detalles.
+Este programa se distribuye con la esperanza de que sea √∫til,
+pero SIN NINGUNA GARANT√çA; incluso sin la garant√≠a impl√≠cita de
+COMERCIABILIDAD o APTITUD PARA UN PROP√ìSITO EN PARTICULAR. Ver el
+Licencia p√∫blica general de GNU para m√°s detalles.
 
-DeberÌa haber recibido una copia de la Licencia P˙blica General de GNU
+Deber√≠a haber recibido una copia de la Licencia P√∫blica General de GNU
 junto con este programa; si no, escriba al software libre
 Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 EE. UU.
 
-Autor: https://www.heavydeveloper.me/ 
